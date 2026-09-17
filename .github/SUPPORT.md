@@ -1,4 +1,4 @@
-Welcome to the PyMeasure community! To get help most efficiently, please use the appropriate communcation channels:
+Welcome to the PyMeasure community! To get help most efficiently, please use the appropriate communication channels:
 
 For **usage questions** and **general inquiries**, please use our new [discussions forum](https://github.com/pymeasure/pymeasure/discussions) right here on Github.
 
